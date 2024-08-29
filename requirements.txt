@@ -1,0 +1,16 @@
+# pip==23.3.1
+fairseq
+audiolm_pytorch
+# !apt install ffmpeg - linux
+# spleeter
+bark 
+encodec 
+torchaudio 
+transformers 
+googletrans==4.0.0-rc1
+whisper-timestamped
+onnxruntime 
+torchaudio
+pydub
+scipy
+moviepy

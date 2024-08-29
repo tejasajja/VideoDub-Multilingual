@@ -1,0 +1,25 @@
+# Ignore the bark-with-voice-clone directory
+bark-with-voice-clone/
+split/
+translated_audio_segments/
+# Ignore Python bytecode files
+
+# Ignore Jupyter Notebook checkpoints
+
+# Ignore environment files
+.env
+
+Can you solve the jail break riddle_ - Dan Finkel.mp4
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled models and checkpoints
+pretrained_models/
